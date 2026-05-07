@@ -115,37 +115,7 @@ Dúvidas, bugs ou sugestões? Conte com a gente:
 suporte@fitkeep.app
 
 Baixe agora e comece sua transformação 🔥
-~3.450 caracteres ✅
 
-🏷️ Tags / Keywords (Play Console)
-fitness, treino, academia, personal trainer, nutrição, calorias, macros,
-musculação, hipertrofia, cutting, bulking, AI, coach, GPS, corrida,
-PPL, Full Body, StrongLifts, plateau, recuperação muscular
-🎨 Sugestões para Capturas (Play Store mostra 8)
-Baseadas nos screenshots que tirei:
-
-Hero: Dashboard com Streak + Coach AI em destaque
-Coach AI: tela de chat com mensagem respondendo "Posso treinar peito hoje?"
-Treinos: lista de templates + botão "Iniciar Treino"
-Nutrição: progress ring com "1850 / 2200 kcal"
-Progresso: gráfico de evolução de peso
-Detector de Plateau: tela mostrando exercício estagnado
-Paywall: stats banner "16+ recursos · ∞ IA · 0 ads"
-Temas: grid de 8 temas coloridos
-Quer que eu também escreva versões em inglês (para mercado internacional) ou ajuste o tom (mais formal, mais descontraído, mais focado em iniciantes/avançados)?
-
-May 7, 09:47 AM
-
-
-
-
-View Preview
-
-
-Agent is waiting...
-Connect
-
-Message Agent
 
 
 
